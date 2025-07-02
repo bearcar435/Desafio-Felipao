@@ -1,0 +1,15 @@
+# Dependency directory
+node_modules/
+.vscode/
+
+# Environment files (e.g., API keys)
+.env
+
+# Logs
+npm-debug.log*
+
+# OS/editor files
+.DS_Store       # Mac
+.thumbs.db      # Windows
+.idea/          # JetBrains IDEs
+.vscode/        # VS Code settings (optional)
